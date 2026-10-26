@@ -3,7 +3,7 @@
 Plugin, site, wiki... retrouvez l'intégrale d'OpenMC dans cette organisation GitHub
 
 ## Les liens utiles
-- [Discord](https://aywen.fr/discord)
+- [Discord](https://discord.openmc.fr/)
 - [Wiki](https://wiki.openmc.fr/)
 - [Site](https://openmc.fr/)
 - [Brandkit](https://github.com/ServerOpenMC/.github/tree/master/brandkit)
